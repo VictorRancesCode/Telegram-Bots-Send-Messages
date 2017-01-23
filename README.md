@@ -1,2 +1,11 @@
 # Telegram-Bots-Send-Messages
-# process
+** Example basic bots for send messages in Telegram **
+
+Edit in routes.py
+```
+    bot_id = "Your Token"
+    chat_id = "ID Chat Telegram"
+```
+
+- Your Token Get in [GitHub Pages](https://core.telegram.org/bots).
+- And  ID Chat  https://api.telegram.org/bot `Token` /getUpdates
